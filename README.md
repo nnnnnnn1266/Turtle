@@ -1,5 +1,10 @@
 # TCAI: A Domain-Specific AI Assistant for Turtle Care
 ![畫畫](https://github.com/user-attachments/assets/f37dd31d-4b8f-488c-a797-ee5aeea21a70)
+
+### 🔗 Google Colab 筆記本
+* **模型微調 (Fine-tuning):** [點此開啟 Colab 連結](https://colab.research.google.com/drive/1ObUhsEMFp2aHvy-fSGOtUY84A9JCBVH-)
+* **指標評估 (Metrics):** [點此開啟 Colab 連結](https://colab.research.google.com/drive/1IuupF9GvOvMlW0m2Eq3U08EP-ZtQMotB#scrollTo=lx7TZQ6HXM4r)
+
 TCAI (Turtle Care AI) 是一個專門為烏龜養殖與照護設計的領域特定人工智慧助手。本專案結合了大型語言模型（LLM）與檢索增強生成（RAG）概念，旨在為飼主、執業者和研究人員提供準確、可靠且易於獲取的烏龜照護知識。
 
 📖 專案背景</br>
